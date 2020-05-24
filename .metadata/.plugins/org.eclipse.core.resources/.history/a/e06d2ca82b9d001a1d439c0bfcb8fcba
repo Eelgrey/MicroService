@@ -1,0 +1,44 @@
+package movie.moviecatalogue;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.client.RestTemplate;
+
+@RestController
+@RequestMapping("/catalog")
+public class CatalogueController {
+
+	@Autowired
+	RestTemplate restTemp;
+	
+	public static List<CatalogItem> list=new ArrayList<>();
+
+	static {
+		list.add(new CatalogItem("Transformers","Machines",4));
+		list.add(new CatalogItem("Titanic","Ship",8));
+		list.add(new CatalogItem("F2F","Cars",5));
+		list.add(new CatalogItem("Wall-E","Anime",6));
+	}
+
+
+	@RequestMapping("/{userId}")
+	public List<CatalogItem> getCatalog(@PathVariable("userId") String userId){
+		
+		List<Rating> list=new ArrayList<Rating>();
+				list.add(new Rating("1234", 4));
+				list.add(new Rating("5678", 5));
+				
+				return list.stream().map(rating->{
+					Movie movie=restTemp.getForObject("https://localhost:8082/movies/"+rating.getMovieId(), Movie.class);
+				return new CatalogItem(movie.getMovieName(), "Description", 4);
+				}).collect(Collectors.toList());
+		
+		//return list;
+	}
+}

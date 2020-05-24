@@ -1,0 +1,5 @@
+package movie.movieinfo;
+
+public class Movie {
+
+}

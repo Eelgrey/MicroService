@@ -1,0 +1,1090 @@
+2020-05-23 20:35:33,606 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-23 20:40:54,059 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.3.0.RELEASE/spring-boot-starter-parent-2.3.0.RELEASE.pom
+2020-05-23 20:40:54,393 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-parent/2.3.0.RELEASE/spring-boot-starter-parent-2.3.0.RELEASE.pom
+2020-05-23 20:40:54,647 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.3.0.RELEASE/spring-boot-dependencies-2.3.0.RELEASE.pom
+2020-05-23 20:40:55,226 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.3.0.RELEASE/spring-boot-dependencies-2.3.0.RELEASE.pom
+2020-05-23 20:40:55,545 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.6.1/java-driver-bom-4.6.1.pom
+2020-05-23 20:40:55,762 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/datastax/oss/java-driver-bom/4.6.1/java-driver-bom-4.6.1.pom
+2020-05-23 20:40:56,048 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.7/metrics-bom-4.1.7.pom
+2020-05-23 20:40:56,217 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-bom/4.1.7/metrics-bom-4.1.7.pom
+2020-05-23 20:40:56,472 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.7/metrics-parent-4.1.7.pom
+2020-05-23 20:40:56,669 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/dropwizard/metrics/metrics-parent/4.1.7/metrics-parent-4.1.7.pom
+2020-05-23 20:40:56,876 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.0/jackson-bom-2.11.0.pom
+2020-05-23 20:40:57,078 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.11.0/jackson-bom-2.11.0.pom
+2020-05-23 20:40:57,288 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.11/jackson-parent-2.11.pom
+2020-05-23 20:40:57,495 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.11/jackson-parent-2.11.pom
+2020-05-23 20:40:57,751 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.30.1/jersey-bom-2.30.1.pom
+2020-05-23 20:40:58,007 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.30.1/jersey-bom-2.30.1.pom
+2020-05-23 20:40:58,234 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2020-05-23 20:40:58,421 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.6.2/junit-bom-5.6.2.pom
+2020-05-23 20:40:58,664 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.6/kotlinx-coroutines-bom-1.3.6.pom
+2020-05-23 20:40:58,829 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-bom/1.3.6/kotlinx-coroutines-bom-1.3.6.pom
+2020-05-23 20:40:59,031 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.13.2/log4j-bom-2.13.2.pom
+2020-05-23 20:40:59,194 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.13.2/log4j-bom-2.13.2.pom
+2020-05-23 20:40:59,423 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.5.1/micrometer-bom-1.5.1.pom
+2020-05-23 20:40:59,654 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-bom/1.5.1/micrometer-bom-1.5.1.pom
+2020-05-23 20:40:59,899 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR3/r2dbc-bom-Arabba-SR3.pom
+2020-05-23 20:41:00,060 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/r2dbc/r2dbc-bom/Arabba-SR3/r2dbc-bom-Arabba-SR3.pom
+2020-05-23 20:41:00,269 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.0/rsocket-bom-1.0.0.pom
+2020-05-23 20:41:00,435 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/rsocket/rsocket-bom/1.0.0/rsocket-bom-1.0.0.pom
+2020-05-23 20:41:00,674 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Neumann-RELEASE/spring-data-releasetrain-Neumann-RELEASE.pom
+2020-05-23 20:41:00,833 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Neumann-RELEASE/spring-data-releasetrain-Neumann-RELEASE.pom
+2020-05-23 20:41:01,091 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.3.0.RELEASE/spring-data-build-2.3.0.RELEASE.pom
+2020-05-23 20:41:01,295 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.3.0.RELEASE/spring-data-build-2.3.0.RELEASE.pom
+2020-05-23 20:41:01,602 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.3.0.RELEASE/spring-integration-bom-5.3.0.RELEASE.pom
+2020-05-23 20:41:01,761 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.3.0.RELEASE/spring-integration-bom-5.3.0.RELEASE.pom
+2020-05-23 20:41:02,013 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.3.2.RELEASE/spring-security-bom-5.3.2.RELEASE.pom
+2020-05-23 20:41:02,222 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.3.2.RELEASE/spring-security-bom-5.3.2.RELEASE.pom
+2020-05-23 20:41:02,837 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Dragonfruit-RELEASE/spring-session-bom-Dragonfruit-RELEASE.pom
+2020-05-23 20:41:03,076 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Dragonfruit-RELEASE/spring-session-bom-Dragonfruit-RELEASE.pom
+2020-05-23 20:41:04,947 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.3.0.RELEASE/spring-boot-maven-plugin-2.3.0.RELEASE.pom
+2020-05-23 20:41:05,317 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.3.0.RELEASE/spring-boot-maven-plugin-2.3.0.RELEASE.pom
+2020-05-23 20:41:05,526 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.3.0.RELEASE/spring-boot-parent-2.3.0.RELEASE.pom
+2020-05-23 20:41:05,695 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-parent/2.3.0.RELEASE/spring-boot-parent-2.3.0.RELEASE.pom
+2020-05-23 20:41:06,081 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.14.1/testcontainers-bom-1.14.1.pom
+2020-05-23 20:41:06,239 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testcontainers/testcontainers-bom/1.14.1/testcontainers-bom-1.14.1.pom
+2020-05-23 20:41:06,441 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.3.0.RELEASE/spring-boot-maven-plugin-2.3.0.RELEASE.jar
+2020-05-23 20:41:07,015 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-maven-plugin/2.3.0.RELEASE/spring-boot-maven-plugin-2.3.0.RELEASE.jar
+2020-05-23 20:41:08,401 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.0/maven-jar-plugin-3.2.0.jar
+2020-05-23 20:41:08,654 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.0/maven-jar-plugin-3.2.0.jar
+2020-05-23 20:41:09,060 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2020-05-23 20:41:09,591 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar
+2020-05-23 20:41:12,579 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 20:41:12,772 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.0.RELEASE/spring-boot-starter-web-2.3.0.RELEASE.pom
+2020-05-23 20:41:12,932 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.0.RELEASE/spring-boot-starter-web-2.3.0.RELEASE.pom
+2020-05-23 20:41:13,145 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.0.RELEASE/spring-boot-starter-2.3.0.RELEASE.pom
+2020-05-23 20:41:13,335 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.0.RELEASE/spring-boot-starter-2.3.0.RELEASE.pom
+2020-05-23 20:41:13,537 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.pom
+2020-05-23 20:41:13,696 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.pom
+2020-05-23 20:41:14,113 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.pom
+2020-05-23 20:41:14,366 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.pom
+2020-05-23 20:41:14,590 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.0.RELEASE/spring-boot-starter-logging-2.3.0.RELEASE.pom
+2020-05-23 20:41:14,754 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.0.RELEASE/spring-boot-starter-logging-2.3.0.RELEASE.pom
+2020-05-23 20:41:15,023 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2.pom
+2020-05-23 20:41:15,179 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2.pom
+2020-05-23 20:41:15,354 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.13.2/log4j-2.13.2.pom
+2020-05-23 20:41:16,694 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j/2.13.2/log4j-2.13.2.pom
+2020-05-23 20:41:16,934 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.2/log4j-api-2.13.2.pom
+2020-05-23 20:41:17,109 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.2/log4j-api-2.13.2.pom
+2020-05-23 20:41:17,444 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.pom
+2020-05-23 20:41:17,760 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.pom
+2020-05-23 20:41:17,960 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.0.RELEASE/spring-boot-starter-json-2.3.0.RELEASE.pom
+2020-05-23 20:41:18,163 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.0.RELEASE/spring-boot-starter-json-2.3.0.RELEASE.pom
+2020-05-23 20:41:18,483 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.pom
+2020-05-23 20:41:18,695 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.pom
+2020-05-23 20:41:18,882 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.0/jackson-base-2.11.0.pom
+2020-05-23 20:41:19,061 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-base/2.11.0/jackson-base-2.11.0.pom
+2020-05-23 20:41:19,296 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.pom
+2020-05-23 20:41:19,520 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.pom
+2020-05-23 20:41:19,737 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.pom
+2020-05-23 20:41:19,916 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.pom
+2020-05-23 20:41:20,113 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.0/jackson-datatype-jdk8-2.11.0.pom
+2020-05-23 20:41:20,280 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.0/jackson-datatype-jdk8-2.11.0.pom
+2020-05-23 20:41:20,532 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.0/jackson-modules-java8-2.11.0.pom
+2020-05-23 20:41:20,743 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-java8/2.11.0/jackson-modules-java8-2.11.0.pom
+2020-05-23 20:41:20,942 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.0/jackson-datatype-jsr310-2.11.0.pom
+2020-05-23 20:41:21,110 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.0/jackson-datatype-jsr310-2.11.0.pom
+2020-05-23 20:41:21,355 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.0/jackson-module-parameter-names-2.11.0.pom
+2020-05-23 20:41:21,549 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.0/jackson-module-parameter-names-2.11.0.pom
+2020-05-23 20:41:21,749 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.0.RELEASE/spring-boot-starter-tomcat-2.3.0.RELEASE.pom
+2020-05-23 20:41:22,004 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.0.RELEASE/spring-boot-starter-tomcat-2.3.0.RELEASE.pom
+2020-05-23 20:41:22,198 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.pom
+2020-05-23 20:41:22,364 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.pom
+2020-05-23 20:41:22,569 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom
+2020-05-23 20:41:22,778 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.pom
+2020-05-23 20:41:22,967 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.35/tomcat-embed-websocket-9.0.35.pom
+2020-05-23 20:41:23,130 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.35/tomcat-embed-websocket-9.0.35.pom
+2020-05-23 20:41:23,357 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.0.RELEASE/spring-boot-starter-test-2.3.0.RELEASE.pom
+2020-05-23 20:41:23,533 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.0.RELEASE/spring-boot-starter-test-2.3.0.RELEASE.pom
+2020-05-23 20:41:23,723 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.0.RELEASE/spring-boot-test-2.3.0.RELEASE.pom
+2020-05-23 20:41:23,926 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.0.RELEASE/spring-boot-test-2.3.0.RELEASE.pom
+2020-05-23 20:41:24,127 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.0.RELEASE/spring-boot-test-autoconfigure-2.3.0.RELEASE.pom
+2020-05-23 20:41:24,348 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.0.RELEASE/spring-boot-test-autoconfigure-2.3.0.RELEASE.pom
+2020-05-23 20:41:24,847 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.pom
+2020-05-23 20:41:25,082 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.pom
+2020-05-23 20:41:25,313 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.7/assertj-parent-pom-2.2.7.pom
+2020-05-23 20:41:25,498 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-parent-pom/2.2.7/assertj-parent-pom-2.2.7.pom
+2020-05-23 20:41:25,687 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.pom
+2020-05-23 20:41:25,882 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.pom
+2020-05-23 20:41:26,115 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.pom
+2020-05-23 20:41:26,420 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.pom
+2020-05-23 20:41:26,630 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.pom
+2020-05-23 20:41:26,849 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.pom
+2020-05-23 20:41:27,182 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.pom
+2020-05-23 20:41:27,437 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.pom
+2020-05-23 20:41:27,631 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.pom
+2020-05-23 20:41:27,794 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.pom
+2020-05-23 20:41:27,968 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2020-05-23 20:41:28,132 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.pom
+2020-05-23 20:41:28,305 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.pom
+2020-05-23 20:41:28,470 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.pom
+2020-05-23 20:41:28,646 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.pom
+2020-05-23 20:41:28,870 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.pom
+2020-05-23 20:41:29,281 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.pom
+2020-05-23 20:41:29,487 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.pom
+2020-05-23 20:41:29,819 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.pom
+2020-05-23 20:41:29,997 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.pom
+2020-05-23 20:41:30,201 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-parent/2.7.0/xmlunit-parent-2.7.0.pom
+2020-05-23 20:41:30,394 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-parent/2.7.0/xmlunit-parent-2.7.0.pom
+2020-05-23 20:41:30,739 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.0.RELEASE/spring-boot-starter-web-2.3.0.RELEASE.jar
+2020-05-23 20:41:30,908 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-web/2.3.0.RELEASE/spring-boot-starter-web-2.3.0.RELEASE.jar
+2020-05-23 20:41:31,065 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.0.RELEASE/spring-boot-starter-2.3.0.RELEASE.jar
+2020-05-23 20:41:31,237 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter/2.3.0.RELEASE/spring-boot-starter-2.3.0.RELEASE.jar
+2020-05-23 20:41:31,434 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar
+2020-05-23 20:41:35,447 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot/2.3.0.RELEASE/spring-boot-2.3.0.RELEASE.jar
+2020-05-23 20:41:35,603 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.jar
+2020-05-23 20:41:42,981 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-autoconfigure/2.3.0.RELEASE/spring-boot-autoconfigure-2.3.0.RELEASE.jar
+2020-05-23 20:41:43,293 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.0.RELEASE/spring-boot-starter-logging-2.3.0.RELEASE.jar
+2020-05-23 20:41:43,457 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-logging/2.3.0.RELEASE/spring-boot-starter-logging-2.3.0.RELEASE.jar
+2020-05-23 20:41:43,812 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2.jar
+2020-05-23 20:41:44,017 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-to-slf4j/2.13.2/log4j-to-slf4j-2.13.2.jar
+2020-05-23 20:41:44,208 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.2/log4j-api-2.13.2.jar
+2020-05-23 20:41:45,453 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-api/2.13.2/log4j-api-2.13.2.jar
+2020-05-23 20:41:45,641 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar
+2020-05-23 20:41:47,329 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar
+2020-05-23 20:41:47,555 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.0.RELEASE/spring-boot-starter-json-2.3.0.RELEASE.jar
+2020-05-23 20:41:47,817 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-json/2.3.0.RELEASE/spring-boot-starter-json-2.3.0.RELEASE.jar
+2020-05-23 20:41:48,058 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar
+2020-05-23 20:41:53,672 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.11.0/jackson-databind-2.11.0.jar
+2020-05-23 20:41:53,858 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.jar
+2020-05-23 20:41:54,274 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.11.0/jackson-annotations-2.11.0.jar
+2020-05-23 20:41:54,459 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.jar
+2020-05-23 20:41:55,905 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.11.0/jackson-core-2.11.0.jar
+2020-05-23 20:41:56,083 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.0/jackson-datatype-jdk8-2.11.0.jar
+2020-05-23 20:41:56,404 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jdk8/2.11.0/jackson-datatype-jdk8-2.11.0.jar
+2020-05-23 20:41:56,597 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.0/jackson-datatype-jsr310-2.11.0.jar
+2020-05-23 20:41:57,169 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.11.0/jackson-datatype-jsr310-2.11.0.jar
+2020-05-23 20:41:57,332 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.0/jackson-module-parameter-names-2.11.0.jar
+2020-05-23 20:41:57,600 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-parameter-names/2.11.0/jackson-module-parameter-names-2.11.0.jar
+2020-05-23 20:41:57,767 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.0.RELEASE/spring-boot-starter-tomcat-2.3.0.RELEASE.jar
+2020-05-23 20:41:57,933 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/2.3.0.RELEASE/spring-boot-starter-tomcat-2.3.0.RELEASE.jar
+2020-05-23 20:41:58,092 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar
+2020-05-23 20:42:12,742 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/9.0.35/tomcat-embed-core-9.0.35.jar
+2020-05-23 20:42:13,052 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar
+2020-05-23 20:42:13,995 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jakarta.el/3.0.3/jakarta.el-3.0.3.jar
+2020-05-23 20:42:14,199 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.35/tomcat-embed-websocket-9.0.35.jar
+2020-05-23 20:42:15,130 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/9.0.35/tomcat-embed-websocket-9.0.35.jar
+2020-05-23 20:42:15,312 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.0.RELEASE/spring-boot-starter-test-2.3.0.RELEASE.jar
+2020-05-23 20:42:15,522 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-test/2.3.0.RELEASE/spring-boot-starter-test-2.3.0.RELEASE.jar
+2020-05-23 20:42:15,728 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.0.RELEASE/spring-boot-test-2.3.0.RELEASE.jar
+2020-05-23 20:42:16,308 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test/2.3.0.RELEASE/spring-boot-test-2.3.0.RELEASE.jar
+2020-05-23 20:42:16,463 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.0.RELEASE/spring-boot-test-autoconfigure-2.3.0.RELEASE.jar
+2020-05-23 20:42:16,958 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-test-autoconfigure/2.3.0.RELEASE/spring-boot-test-autoconfigure-2.3.0.RELEASE.jar
+2020-05-23 20:42:17,167 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar
+2020-05-23 20:42:21,322 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/assertj/assertj-core/3.16.1/assertj-core-3.16.1.jar
+2020-05-23 20:42:21,487 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar
+2020-05-23 20:42:21,780 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest/2.2/hamcrest-2.2.jar
+2020-05-23 20:42:21,947 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar
+2020-05-23 20:42:22,125 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter/5.6.2/junit-jupiter-5.6.2.jar
+2020-05-23 20:42:22,284 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar
+2020-05-23 20:42:22,511 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.6.2/junit-jupiter-api-5.6.2.jar
+2020-05-23 20:42:22,672 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar
+2020-05-23 20:42:22,878 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar
+2020-05-23 20:42:23,040 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar
+2020-05-23 20:42:23,555 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-params/5.6.2/junit-jupiter-params-5.6.2.jar
+2020-05-23 20:42:23,754 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2020-05-23 20:42:24,024 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.6.2/junit-jupiter-engine-5.6.2.jar
+2020-05-23 20:42:24,200 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar
+2020-05-23 20:42:24,614 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.6.2/junit-platform-engine-1.6.2.jar
+2020-05-23 20:42:24,885 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.jar
+2020-05-23 20:42:25,492 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-core/3.3.3/mockito-core-3.3.3.jar
+2020-05-23 20:42:25,647 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar
+2020-05-23 20:42:25,807 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/mockito/mockito-junit-jupiter/3.3.3/mockito-junit-jupiter-3.3.3.jar
+2020-05-23 20:42:26,019 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.jar
+2020-05-23 20:42:26,522 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/xmlunit/xmlunit-core/2.7.0/xmlunit-core-2.7.0.jar
+2020-05-23 20:42:32,691 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.0/maven-jar-plugin-3.2.0.pom
+2020-05-23 20:42:33,022 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.2.0/maven-jar-plugin-3.2.0.pom
+2020-05-23 20:42:33,613 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2020-05-23 20:42:33,796 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.pom
+2020-05-23 20:42:34,127 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2020-05-23 20:42:34,337 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.pom
+2020-05-23 20:42:34,536 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2020-05-23 20:42:34,806 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.pom
+2020-05-23 20:42:35,047 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2020-05-23 20:42:35,216 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/1.0-beta-6/wagon-provider-api-1.0-beta-6.pom
+2020-05-23 20:42:35,463 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2020-05-23 20:42:35,667 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/1.0-beta-6/wagon-1.0-beta-6.pom
+2020-05-23 20:42:35,863 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2020-05-23 20:42:36,037 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.4.2/plexus-utils-1.4.2.pom
+2020-05-23 20:42:36,208 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2020-05-23 20:42:36,404 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.pom
+2020-05-23 20:42:36,594 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2020-05-23 20:42:36,763 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon/2.10/wagon-2.10.pom
+2020-05-23 20:42:36,934 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2020-05-23 20:42:37,132 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/26/maven-parent-26.pom
+2020-05-23 20:42:37,703 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.5.0/maven-archiver-3.5.0.pom
+2020-05-23 20:42:37,954 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.5.0/maven-archiver-3.5.0.pom
+2020-05-23 20:42:38,242 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.0/plexus-archiver-4.2.0.pom
+2020-05-23 20:42:38,396 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.0/plexus-archiver-4.2.0.pom
+2020-05-23 20:42:38,755 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.2.0/plexus-io-3.2.0.pom
+2020-05-23 20:42:38,938 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.2.0/plexus-io-3.2.0.pom
+2020-05-23 20:42:39,468 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.1/plexus-archiver-4.2.1.pom
+2020-05-23 20:42:39,684 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.1/plexus-archiver-4.2.1.pom
+2020-05-23 20:42:40,221 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2020-05-23 20:42:40,554 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.0.0/file-management-3.0.0.jar
+2020-05-23 20:42:40,735 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2020-05-23 20:42:41,219 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/3.0.0/maven-shared-io-3.0.0.jar
+2020-05-23 20:42:41,420 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2020-05-23 20:42:42,700 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-compat/3.0/maven-compat-3.0.jar
+2020-05-23 20:42:42,869 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2020-05-23 20:42:43,098 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/wagon/wagon-provider-api/2.10/wagon-provider-api-2.10.jar
+2020-05-23 20:42:43,386 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.5.0/maven-archiver-3.5.0.jar
+2020-05-23 20:42:43,684 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.5.0/maven-archiver-3.5.0.jar
+2020-05-23 20:42:43,896 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.1/plexus-archiver-4.2.1.jar
+2020-05-23 20:42:44,729 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.2.1/plexus-archiver-4.2.1.jar
+2020-05-23 20:42:44,897 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.2.0/plexus-io-3.2.0.jar
+2020-05-23 20:42:45,506 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.2.0/plexus-io-3.2.0.jar
+2020-05-23 20:42:45,665 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar
+2020-05-23 20:42:46,570 [Worker-14] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar
+2020-05-23 20:42:49,884 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-catalogue/src/main/java
+2020-05-23 20:42:49,885 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-catalogue/src/main/resources
+2020-05-23 20:42:49,896 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-catalogue/src/main/resources
+2020-05-23 20:42:49,917 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-catalogue/src/test/java
+2020-05-23 20:42:53,361 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 120 sec
+2020-05-23 20:42:55,943 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:42:55,954 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 20:42:55,983 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:42:55,990 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:42:55,991 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 20:44:18,422 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-23 20:44:21,877 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 20:44:28,756 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-catalogue/src/main/java
+2020-05-23 20:44:28,757 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-catalogue/src/main/resources
+2020-05-23 20:44:28,758 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-catalogue/src/main/resources
+2020-05-23 20:44:28,760 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-catalogue/src/test/java
+2020-05-23 20:44:30,910 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2020-05-23 20:44:32,396 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:44:32,398 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 20:44:32,420 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:44:32,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:44:32,425 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 20:45:10,374 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 20:45:38,903 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 20:45:40,483 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:45:40,489 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:45:40,491 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:45:40,494 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:45:40,495 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 20:45:49,845 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 20:45:51,494 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:45:51,500 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:45:51,502 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:45:51,506 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:45:51,506 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 20:49:48,212 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-info:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-info\pom.xml.
+2020-05-23 20:49:49,325 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info/src/main/java
+2020-05-23 20:49:49,326 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info/src/main/resources
+2020-05-23 20:49:49,338 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-info/src/main/resources
+2020-05-23 20:49:49,352 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-info/src/test/java
+2020-05-23 20:49:49,740 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2020-05-23 20:49:51,585 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:49:51,586 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 20:49:51,696 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 20:49:51,708 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 20:49:51,708 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 22:21:36,453 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:21:36,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 22:21:36,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:21:36,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:21:36,461 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 22:32:13,154 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-23 22:32:15,705 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:32:15,705 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:32:15,705 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:32:15,709 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:32:15,709 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 22:37:29,029 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:37:29,041 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 22:37:29,049 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:37:29,049 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:37:29,049 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 22:37:40,816 [Worker-41] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-05-23 22:38:32,882 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:38:32,882 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 22:38:32,882 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:38:32,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:38:32,898 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 22:57:15,239 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:57:15,239 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 22:57:15,254 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:57:15,254 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:57:15,254 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 22:57:52,359 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:57:52,363 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 22:57:52,367 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 22:57:52,371 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 22:57:52,371 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:01:31,594 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:31,598 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:01:31,602 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:01:31,606 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:31,606 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:01:42,973 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:42,977 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:01:42,981 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:01:42,985 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:42,985 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:01:51,469 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:51,473 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:01:51,477 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:01:51,477 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:01:51,481 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:03:34,613 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:03:34,613 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:03:34,617 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:03:34,621 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:03:34,621 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:03:39,155 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:03:39,159 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:03:39,163 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:03:39,167 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:03:39,167 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:08:24,883 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:08:24,887 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:08:24,891 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:08:24,895 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:08:24,895 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 23:10:05,452 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:10:05,468 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:10:05,468 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:10:05,484 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:10:05,484 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 23:10:43,109 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:10:43,114 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:10:43,117 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:10:43,121 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:10:43,121 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 23:11:52,445 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:11:52,449 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:11:52,453 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:11:52,457 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:11:52,457 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-23 23:15:29,855 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-23 23:15:32,211 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-ratings/src/main/java
+2020-05-23 23:15:32,211 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-ratings/src/main/resources
+2020-05-23 23:15:32,223 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-ratings/src/main/resources
+2020-05-23 23:15:32,231 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-ratings/src/test/java
+2020-05-23 23:15:33,630 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
+2020-05-23 23:15:35,850 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:15:35,850 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:15:35,865 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:15:35,865 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:15:35,865 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:16:10,710 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:16:10,726 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:16:10,726 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:16:10,741 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:16:10,741 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:17:01,462 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:01,466 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:17:01,474 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:17:01,474 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:01,474 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:17:25,529 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:25,529 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:17:25,545 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:17:25,545 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:25,545 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:17:48,418 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:48,422 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:17:48,426 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:17:48,430 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:17:48,430 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:18:12,958 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:18:12,962 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:18:12,966 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:18:12,970 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:18:12,970 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:18:35,295 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:18:35,299 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:18:35,319 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:18:35,327 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:18:35,327 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:20:08,959 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:20:08,963 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:20:08,971 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:20:08,975 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:20:08,975 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:38:37,208 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:38:37,212 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:38:37,220 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:38:37,220 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:38:37,220 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-23 23:58:14,405 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:14,409 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:58:14,417 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:58:14,421 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:14,421 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:58:21,127 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:21,131 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:58:21,135 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:58:21,135 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:21,135 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:58:30,462 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:30,466 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:58:30,470 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:58:30,470 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:30,470 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-23 23:58:59,170 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:59,174 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-23 23:58:59,182 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-23 23:58:59,182 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-23 23:58:59,182 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 00:00:10,727 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:00:10,731 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:00:10,735 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:00:10,735 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:00:10,735 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:07:18,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:07:18,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:07:18,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:07:18,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:07:18,650 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:10:02,321 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:02,321 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:10:02,325 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:10:02,329 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:02,329 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:10:06,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:06,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:10:06,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:10:06,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:06,435 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:10:11,665 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:11,665 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:10:11,680 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:10:11,680 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:11,680 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:10:15,751 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:15,766 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:10:15,766 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:10:15,766 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:10:15,766 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:14:31,142 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:14:31,142 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:14:31,146 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:14:31,150 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:14:31,150 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:15:20,825 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:20,825 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:15:20,841 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:15:20,841 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:20,841 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:15:41,603 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:41,619 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:15:41,619 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:15:41,619 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:41,619 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:15:54,756 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:54,756 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:15:54,756 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:15:54,756 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:15:54,756 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:17:38,471 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:17:38,471 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:17:38,471 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:17:38,486 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:17:38,486 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:42:01,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:42:01,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:42:01,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:42:01,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:42:01,931 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:42:26,932 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:42:26,932 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:42:26,947 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:42:26,963 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:42:26,963 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:45:39,700 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:45:39,704 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:45:39,708 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:45:39,712 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:45:39,712 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 00:45:57,710 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:45:57,714 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:45:57,718 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:45:57,722 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:45:57,722 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 00:46:06,744 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:46:06,748 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:46:06,756 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:46:06,760 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:46:06,760 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:57:13,577 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:57:13,585 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:57:13,589 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:57:13,593 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:57:13,593 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 00:59:02,174 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:59:02,174 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 00:59:02,179 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 00:59:02,179 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 00:59:02,179 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:01:21,137 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:01:21,141 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:01:21,145 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:01:21,145 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:01:21,145 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 01:02:33,653 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:02:33,669 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:02:33,685 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:02:33,685 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:02:33,685 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 01:05:05,475 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:05:05,475 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:05:05,475 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:05:05,491 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:05:05,491 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:06:28,555 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:06:28,555 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:06:28,570 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:06:28,570 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:06:28,570 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:09:35,160 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:09:35,160 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:09:35,160 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:09:35,175 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:09:35,175 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:10:02,980 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:02,980 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:10:02,996 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:10:02,996 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:02,996 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:10:25,468 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:25,468 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:10:25,484 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:10:25,484 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:25,484 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 01:10:43,200 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:43,200 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:10:43,200 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:10:43,200 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:10:43,200 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 01:14:53,175 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:14:53,179 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:14:53,183 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:14:53,195 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:14:53,195 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:16:16,829 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:16,846 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:16:16,854 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:16:16,858 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:16,858 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:16:25,629 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:25,637 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:16:25,649 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:16:25,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:25,653 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:16:34,510 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:34,514 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:16:34,522 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:16:34,530 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:16:34,530 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:17:15,342 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:17:15,342 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:17:15,350 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:17:15,354 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:17:15,354 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:17:53,688 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:17:53,692 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:17:53,696 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:17:53,696 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:17:53,696 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:18:41,869 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:18:41,869 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:18:41,877 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:18:41,877 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:18:41,877 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:19:47,480 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:19:47,484 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:19:47,488 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:19:47,532 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:19:47,532 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:19:55,847 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:19:55,855 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:19:55,863 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:19:55,867 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:19:55,867 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 01:20:07,993 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:20:07,997 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 01:20:08,001 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 01:20:08,001 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 01:20:08,001 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:08:34,419 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: eureka:discovery-server:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\discovery-server\pom.xml.
+2020-05-24 02:08:37,851 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.3.2.RELEASE/spring-security-crypto-5.3.2.RELEASE.pom
+2020-05-24 02:08:38,481 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.3.2.RELEASE/spring-security-crypto-5.3.2.RELEASE.pom
+2020-05-24 02:08:39,280 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.3.0.RELEASE/spring-boot-starter-actuator-2.3.0.RELEASE.pom
+2020-05-24 02:08:39,710 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.3.0.RELEASE/spring-boot-starter-actuator-2.3.0.RELEASE.pom
+2020-05-24 02:08:40,155 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.3.0.RELEASE/spring-boot-actuator-autoconfigure-2.3.0.RELEASE.pom
+2020-05-24 02:08:40,487 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.3.0.RELEASE/spring-boot-actuator-autoconfigure-2.3.0.RELEASE.pom
+2020-05-24 02:08:40,925 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.3.0.RELEASE/spring-boot-actuator-2.3.0.RELEASE.pom
+2020-05-24 02:08:41,271 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.3.0.RELEASE/spring-boot-actuator-2.3.0.RELEASE.pom
+2020-05-24 02:08:41,652 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1.pom
+2020-05-24 02:08:42,024 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1.pom
+2020-05-24 02:08:42,476 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.pom
+2020-05-24 02:08:43,007 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.pom
+2020-05-24 02:08:43,401 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.3.0.RELEASE/spring-boot-starter-freemarker-2.3.0.RELEASE.pom
+2020-05-24 02:08:43,917 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.3.0.RELEASE/spring-boot-starter-freemarker-2.3.0.RELEASE.pom
+2020-05-24 02:08:44,482 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.0.RELEASE/spring-boot-starter-aop-2.3.0.RELEASE.pom
+2020-05-24 02:08:44,841 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.0.RELEASE/spring-boot-starter-aop-2.3.0.RELEASE.pom
+2020-05-24 02:08:45,682 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2020-05-24 02:08:46,433 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.pom
+2020-05-24 02:08:48,187 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.pom
+2020-05-24 02:08:48,547 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.pom
+2020-05-24 02:08:48,875 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/50/commons-parent-50.pom
+2020-05-24 02:08:50,193 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/50/commons-parent-50.pom
+2020-05-24 02:08:51,005 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.11.0/jackson-dataformat-xml-2.11.0.pom
+2020-05-24 02:08:51,338 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.11.0/jackson-dataformat-xml-2.11.0.pom
+2020-05-24 02:08:51,744 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.11.0/jackson-module-jaxb-annotations-2.11.0.pom
+2020-05-24 02:08:52,146 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.11.0/jackson-module-jaxb-annotations-2.11.0.pom
+2020-05-24 02:08:52,541 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.11.0/jackson-modules-base-2.11.0.pom
+2020-05-24 02:08:52,869 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-modules-base/2.11.0/jackson-modules-base-2.11.0.pom
+2020-05-24 02:08:54,418 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.0.RELEASE/spring-boot-starter-cache-2.3.0.RELEASE.pom
+2020-05-24 02:08:54,731 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.0.RELEASE/spring-boot-starter-cache-2.3.0.RELEASE.pom
+2020-05-24 02:08:56,223 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.3.2.RELEASE/spring-security-crypto-5.3.2.RELEASE.jar
+2020-05-24 02:08:58,007 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-crypto/5.3.2.RELEASE/spring-security-crypto-5.3.2.RELEASE.jar
+2020-05-24 02:08:58,401 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.3.0.RELEASE/spring-boot-starter-actuator-2.3.0.RELEASE.jar
+2020-05-24 02:08:58,713 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-actuator/2.3.0.RELEASE/spring-boot-starter-actuator-2.3.0.RELEASE.jar
+2020-05-24 02:08:59,010 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.3.0.RELEASE/spring-boot-actuator-autoconfigure-2.3.0.RELEASE.jar
+2020-05-24 02:09:04,835 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator-autoconfigure/2.3.0.RELEASE/spring-boot-actuator-autoconfigure-2.3.0.RELEASE.jar
+2020-05-24 02:09:05,146 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.3.0.RELEASE/spring-boot-actuator-2.3.0.RELEASE.jar
+2020-05-24 02:09:09,018 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-actuator/2.3.0.RELEASE/spring-boot-actuator-2.3.0.RELEASE.jar
+2020-05-24 02:09:09,321 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1.jar
+2020-05-24 02:09:14,363 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1.jar
+2020-05-24 02:09:14,670 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar
+2020-05-24 02:09:16,653 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.12/HdrHistogram-2.1.12.jar
+2020-05-24 02:09:16,942 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.3.0.RELEASE/spring-boot-starter-freemarker-2.3.0.RELEASE.jar
+2020-05-24 02:09:17,243 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-freemarker/2.3.0.RELEASE/spring-boot-starter-freemarker-2.3.0.RELEASE.jar
+2020-05-24 02:09:17,547 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.0.RELEASE/spring-boot-starter-aop-2.3.0.RELEASE.jar
+2020-05-24 02:09:17,864 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-aop/2.3.0.RELEASE/spring-boot-starter-aop-2.3.0.RELEASE.jar
+2020-05-24 02:09:18,172 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.jar
+2020-05-24 02:09:24,696 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/joda-time/joda-time/2.3/joda-time-2.3.jar
+2020-05-24 02:09:24,995 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.jar
+2020-05-24 02:09:28,586 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.14/commons-codec-1.14.jar
+2020-05-24 02:09:28,994 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.11.0/jackson-dataformat-xml-2.11.0.jar
+2020-05-24 02:09:30,426 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.11.0/jackson-dataformat-xml-2.11.0.jar
+2020-05-24 02:09:30,721 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.11.0/jackson-module-jaxb-annotations-2.11.0.jar
+2020-05-24 02:09:31,457 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.11.0/jackson-module-jaxb-annotations-2.11.0.jar
+2020-05-24 02:09:31,755 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.0.RELEASE/spring-boot-starter-cache-2.3.0.RELEASE.jar
+2020-05-24 02:09:32,054 [Worker-115] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-cache/2.3.0.RELEASE/spring-boot-starter-cache-2.3.0.RELEASE.jar
+2020-05-24 02:09:36,576 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/main/java
+2020-05-24 02:09:36,576 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-24 02:09:36,592 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /discovery-server/src/main/resources
+2020-05-24 02:09:36,604 [Worker-115] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /discovery-server/src/test/java
+2020-05-24 02:09:38,642 [Worker-115] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 68 sec
+2020-05-24 02:09:42,722 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:09:42,722 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:09:42,722 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:09:42,726 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:09:42,726 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:11:05,162 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:11:05,166 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:11:05,166 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:11:05,170 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:11:05,170 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:12:09,714 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:12:09,714 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:12:09,718 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:12:09,722 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:12:09,722 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:12:15,648 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:12:15,652 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:12:15,656 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:12:15,656 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:12:15,656 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:13:53,217 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:13:53,217 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:13:53,225 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:13:53,237 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:13:53,237 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:23:46,381 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:24:24,530 [Worker-126] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:25:53,944 [Worker-127] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:26:01,904 [Worker-129] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:26:05,343 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:26:44,090 [Worker-130] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-24 02:26:50,109 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:26:50,844 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: eureka:discovery-server:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\discovery-server\pom.xml.
+2020-05-24 02:26:54,507 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-info:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-info\pom.xml.
+2020-05-24 02:26:59,063 [Worker-130] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-ratings/src/main/java
+2020-05-24 02:26:59,067 [Worker-130] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-ratings/src/main/resources
+2020-05-24 02:26:59,067 [Worker-130] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /movie-ratings/src/main/resources
+2020-05-24 02:26:59,067 [Worker-130] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /movie-ratings/src/test/java
+2020-05-24 02:26:59,521 [Worker-130] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 15 sec
+2020-05-24 02:27:02,229 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:27:02,229 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:27:02,229 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:27:02,229 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:27:02,229 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:27:03,027 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:27:03,027 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:27:03,027 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:27:03,027 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:27:03,074 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:30:35,902 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/Greenwich.RELEASE/spring-cloud-dependencies-Greenwich.RELEASE.pom
+2020-05-24 02:30:36,632 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/Greenwich.RELEASE/spring-cloud-dependencies-Greenwich.RELEASE.pom
+2020-05-24 02:30:37,022 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2020-05-24 02:30:37,370 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2020-05-24 02:30:37,641 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.0.RELEASE/spring-cloud-commons-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:37,922 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.0.RELEASE/spring-cloud-commons-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:38,222 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.0.RELEASE/spring-cloud-netflix-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:38,477 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.0.RELEASE/spring-cloud-netflix-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:38,771 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.RELEASE/spring-cloud-stream-dependencies-Fishtown.RELEASE.pom
+2020-05-24 02:30:39,005 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.RELEASE/spring-cloud-stream-dependencies-Fishtown.RELEASE.pom
+2020-05-24 02:30:39,299 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.1.RELEASE/spring-cloud-dependencies-parent-2.1.1.RELEASE.pom
+2020-05-24 02:30:39,911 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.1.RELEASE/spring-cloud-dependencies-parent-2.1.1.RELEASE.pom
+2020-05-24 02:30:40,156 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/2.1.0.RELEASE/spring-cloud-task-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:40,376 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/2.1.0.RELEASE/spring-cloud-task-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:40,771 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/2.1.0.RELEASE/spring-cloud-config-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:41,007 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/2.1.0.RELEASE/spring-cloud-config-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:41,341 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/2.0.0.RELEASE/spring-cloud-function-dependencies-2.0.0.RELEASE.pom
+2020-05-24 02:30:41,575 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/2.0.0.RELEASE/spring-cloud-function-dependencies-2.0.0.RELEASE.pom
+2020-05-24 02:30:41,854 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.0.RELEASE/spring-cloud-gateway-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:42,094 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.0.RELEASE/spring-cloud-gateway-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:42,471 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.0.RELEASE/spring-cloud-consul-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:42,703 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.0.RELEASE/spring-cloud-consul-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:43,088 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.0.RELEASE/spring-cloud-sleuth-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:43,518 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.0.RELEASE/spring-cloud-sleuth-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:43,810 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.0.RELEASE/spring-cloud-vault-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:44,106 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.0.RELEASE/spring-cloud-vault-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:44,375 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.0.RELEASE/spring-cloud-zookeeper-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:44,659 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.0.RELEASE/spring-cloud-zookeeper-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:44,954 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-security-dependencies/2.1.0.RELEASE/spring-cloud-security-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:45,183 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-security-dependencies/2.1.0.RELEASE/spring-cloud-security-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:45,482 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.0.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:45,716 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.0.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:46,069 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.0.RELEASE/spring-cloud-bus-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:46,323 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.0.RELEASE/spring-cloud-bus-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:46,588 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.0.RELEASE/spring-cloud-contract-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:46,963 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.0.RELEASE/spring-cloud-contract-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:47,240 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.0.RELEASE/spring-cloud-aws-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:47,638 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.0.RELEASE/spring-cloud-aws-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:48,128 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.0.RELEASE/spring-cloud-openfeign-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:48,452 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.0.RELEASE/spring-cloud-openfeign-dependencies-2.1.0.RELEASE.pom
+2020-05-24 02:30:48,735 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.0.RELEASE/spring-cloud-kubernetes-dependencies-1.0.0.RELEASE.pom
+2020-05-24 02:30:48,972 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.0.RELEASE/spring-cloud-kubernetes-dependencies-1.0.0.RELEASE.pom
+2020-05-24 02:30:49,267 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2020-05-24 02:30:49,524 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2020-05-24 02:30:49,794 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.0.RELEASE/spring-cloud-gcp-dependencies-1.1.0.RELEASE.pom
+2020-05-24 02:30:50,028 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.0.RELEASE/spring-cloud-gcp-dependencies-1.1.0.RELEASE.pom
+2020-05-24 02:30:51,134 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2020-05-24 02:30:51,620 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2020-05-24 02:30:51,845 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2020-05-24 02:30:52,567 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2020-05-24 02:30:53,017 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2020-05-24 02:30:53,365 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2020-05-24 02:30:53,589 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2020-05-24 02:30:53,841 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2020-05-24 02:30:55,536 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-ratings:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\pom.xml.
+2020-05-24 02:30:56,606 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.0.RELEASE.pom
+2020-05-24 02:30:56,874 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.0.RELEASE.pom
+2020-05-24 02:30:57,168 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.1.0.RELEASE/spring-cloud-starter-netflix-2.1.0.RELEASE.pom
+2020-05-24 02:30:57,402 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.1.0.RELEASE/spring-cloud-starter-netflix-2.1.0.RELEASE.pom
+2020-05-24 02:30:57,684 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.1.0.RELEASE/spring-cloud-netflix-2.1.0.RELEASE.pom
+2020-05-24 02:30:57,917 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.1.0.RELEASE/spring-cloud-netflix-2.1.0.RELEASE.pom
+2020-05-24 02:30:58,206 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/2.1.2.RELEASE/spring-cloud-build-2.1.2.RELEASE.pom
+2020-05-24 02:30:58,650 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/2.1.2.RELEASE/spring-cloud-build-2.1.2.RELEASE.pom
+2020-05-24 02:30:58,964 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.0.2.RELEASE/spring-cloud-contract-dependencies-2.0.2.RELEASE.pom
+2020-05-24 02:30:59,284 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.0.2.RELEASE/spring-cloud-contract-dependencies-2.0.2.RELEASE.pom
+2020-05-24 02:30:59,602 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.0.4.RELEASE/spring-cloud-dependencies-parent-2.0.4.RELEASE.pom
+2020-05-24 02:30:59,855 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.0.4.RELEASE/spring-cloud-dependencies-parent-2.0.4.RELEASE.pom
+2020-05-24 02:31:00,250 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/2.1.2.RELEASE/spring-cloud-build-dependencies-2.1.2.RELEASE.pom
+2020-05-24 02:31:00,517 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/2.1.2.RELEASE/spring-cloud-build-dependencies-2.1.2.RELEASE.pom
+2020-05-24 02:31:00,806 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom
+2020-05-24 02:31:02,342 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.1.2.RELEASE/spring-boot-dependencies-2.1.2.RELEASE.pom
+2020-05-24 02:31:02,621 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.8/jackson-bom-2.9.8.pom
+2020-05-24 02:31:02,958 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-bom/2.9.8/jackson-bom-2.9.8.pom
+2020-05-24 02:31:03,227 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2020-05-24 02:31:03,468 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.9.1.2/jackson-parent-2.9.1.2.pom
+2020-05-24 02:31:03,753 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2020-05-24 02:31:04,101 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/34/oss-parent-34.pom
+2020-05-24 02:31:04,443 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.31.Final/netty-bom-4.1.31.Final.pom
+2020-05-24 02:31:04,722 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.31.Final/netty-bom-4.1.31.Final.pom
+2020-05-24 02:31:05,006 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Californium-SR4/reactor-bom-Californium-SR4.pom
+2020-05-24 02:31:05,495 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Californium-SR4/reactor-bom-Californium-SR4.pom
+2020-05-24 02:31:05,754 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.11.1/log4j-bom-2.11.1.pom
+2020-05-24 02:31:05,994 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/logging/log4j/log4j-bom/2.11.1/log4j-bom-2.11.1.pom
+2020-05-24 02:31:06,290 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2020-05-24 02:31:06,556 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2020-05-24 02:31:06,832 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.27/jersey-bom-2.27.pom
+2020-05-24 02:31:07,252 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/glassfish/jersey/jersey-bom/2.27/jersey-bom-2.27.pom
+2020-05-24 02:31:07,554 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.3.2/junit-bom-5.3.2.pom
+2020-05-24 02:31:07,870 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/junit-bom/5.3.2/junit-bom-5.3.2.pom
+2020-05-24 02:31:08,169 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.1.4.RELEASE/spring-framework-bom-5.1.4.RELEASE.pom
+2020-05-24 02:31:08,399 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.1.4.RELEASE/spring-framework-bom-5.1.4.RELEASE.pom
+2020-05-24 02:31:08,686 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Lovelace-SR4/spring-data-releasetrain-Lovelace-SR4.pom
+2020-05-24 02:31:08,918 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Lovelace-SR4/spring-data-releasetrain-Lovelace-SR4.pom
+2020-05-24 02:31:09,167 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.1.4.RELEASE/spring-data-build-2.1.4.RELEASE.pom
+2020-05-24 02:31:09,436 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.1.4.RELEASE/spring-data-build-2.1.4.RELEASE.pom
+2020-05-24 02:31:09,718 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.1.2.RELEASE/spring-integration-bom-5.1.2.RELEASE.pom
+2020-05-24 02:31:09,963 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.1.2.RELEASE/spring-integration-bom-5.1.2.RELEASE.pom
+2020-05-24 02:31:10,232 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.1.3.RELEASE/spring-security-bom-5.1.3.RELEASE.pom
+2020-05-24 02:31:10,462 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.1.3.RELEASE/spring-security-bom-5.1.3.RELEASE.pom
+2020-05-24 02:31:10,720 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR2/spring-session-bom-Bean-SR2.pom
+2020-05-24 02:31:10,953 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR2/spring-session-bom-Bean-SR2.pom
+2020-05-24 02:31:11,251 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.0.RELEASE/spring-cloud-starter-2.1.0.RELEASE.pom
+2020-05-24 02:31:11,482 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.0.RELEASE/spring-cloud-starter-2.1.0.RELEASE.pom
+2020-05-24 02:31:11,761 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/2.1.0.RELEASE/spring-cloud-commons-parent-2.1.0.RELEASE.pom
+2020-05-24 02:31:12,008 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/2.1.0.RELEASE/spring-cloud-commons-parent-2.1.0.RELEASE.pom
+2020-05-24 02:31:12,279 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.0.RELEASE/spring-cloud-context-2.1.0.RELEASE.pom
+2020-05-24 02:31:12,524 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.0.RELEASE/spring-cloud-context-2.1.0.RELEASE.pom
+2020-05-24 02:31:12,839 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.pom
+2020-05-24 02:31:13,073 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.pom
+2020-05-24 02:31:13,377 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-rsa/1.0.7.RELEASE/spring-security-rsa-1.0.7.RELEASE.pom
+2020-05-24 02:31:13,625 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-rsa/1.0.7.RELEASE/spring-security-rsa-1.0.7.RELEASE.pom
+2020-05-24 02:31:13,883 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60.pom
+2020-05-24 02:31:14,140 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60.pom
+2020-05-24 02:31:14,437 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.pom
+2020-05-24 02:31:14,764 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.pom
+2020-05-24 02:31:15,055 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RELEASE/spring-cloud-netflix-hystrix-2.1.0.RELEASE.pom
+2020-05-24 02:31:15,285 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RELEASE/spring-cloud-netflix-hystrix-2.1.0.RELEASE.pom
+2020-05-24 02:31:15,673 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-netflix-eureka-client-2.1.0.RELEASE.pom
+2020-05-24 02:31:15,902 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-netflix-eureka-client-2.1.0.RELEASE.pom
+2020-05-24 02:31:16,193 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.pom
+2020-05-24 02:31:16,421 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.pom
+2020-05-24 02:31:16,806 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2020-05-24 02:31:17,035 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/14.0.1/guava-14.0.1.pom
+2020-05-24 02:31:17,293 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2020-05-24 02:31:17,532 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/14.0.1/guava-parent-14.0.1.pom
+2020-05-24 02:31:17,935 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.pom
+2020-05-24 02:31:18,175 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.pom
+2020-05-24 02:31:18,436 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0/guava-parent-16.0.pom
+2020-05-24 02:31:18,768 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/16.0/guava-parent-16.0.pom
+2020-05-24 02:31:19,603 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.pom
+2020-05-24 02:31:19,844 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.pom
+2020-05-24 02:31:20,301 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.0.RELEASE/spring-cloud-starter-netflix-archaius-2.1.0.RELEASE.pom
+2020-05-24 02:31:20,548 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.0.RELEASE/spring-cloud-starter-netflix-archaius-2.1.0.RELEASE.pom
+2020-05-24 02:31:20,917 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.pom
+2020-05-24 02:31:21,367 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.pom
+2020-05-24 02:31:21,656 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.0.RELEASE/spring-cloud-netflix-archaius-2.1.0.RELEASE.pom
+2020-05-24 02:31:21,955 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.0.RELEASE/spring-cloud-netflix-archaius-2.1.0.RELEASE.pom
+2020-05-24 02:31:22,243 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.0.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.0.RELEASE.pom
+2020-05-24 02:31:22,473 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.0.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.0.RELEASE.pom
+2020-05-24 02:31:23,795 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.0.RELEASE.jar
+2020-05-24 02:31:24,024 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.0.RELEASE.jar
+2020-05-24 02:31:24,305 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.0.RELEASE/spring-cloud-starter-2.1.0.RELEASE.jar
+2020-05-24 02:31:24,544 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.0.RELEASE/spring-cloud-starter-2.1.0.RELEASE.jar
+2020-05-24 02:31:24,824 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.0.RELEASE/spring-cloud-context-2.1.0.RELEASE.jar
+2020-05-24 02:31:25,573 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.0.RELEASE/spring-cloud-context-2.1.0.RELEASE.jar
+2020-05-24 02:31:25,795 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.jar
+2020-05-24 02:31:26,652 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.0.RELEASE/spring-cloud-commons-2.1.0.RELEASE.jar
+2020-05-24 02:31:26,869 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-rsa/1.0.7.RELEASE/spring-security-rsa-1.0.7.RELEASE.jar
+2020-05-24 02:31:27,309 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-rsa/1.0.7.RELEASE/spring-security-rsa-1.0.7.RELEASE.jar
+2020-05-24 02:31:27,529 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60.jar
+2020-05-24 02:31:31,412 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60.jar
+2020-05-24 02:31:31,717 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.jar
+2020-05-24 02:31:36,932 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bcprov-jdk15on/1.60/bcprov-jdk15on-1.60.jar
+2020-05-24 02:31:37,166 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RELEASE/spring-cloud-netflix-hystrix-2.1.0.RELEASE.jar
+2020-05-24 02:31:37,585 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.0.RELEASE/spring-cloud-netflix-hystrix-2.1.0.RELEASE.jar
+2020-05-24 02:31:37,805 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-netflix-eureka-client-2.1.0.RELEASE.jar
+2020-05-24 02:31:38,178 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.0.RELEASE/spring-cloud-netflix-eureka-client-2.1.0.RELEASE.jar
+2020-05-24 02:31:38,404 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2020-05-24 02:31:38,835 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2020-05-24 02:31:39,057 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2020-05-24 02:31:40,669 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2020-05-24 02:31:40,965 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2020-05-24 02:31:41,241 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2020-05-24 02:31:41,460 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.0.RELEASE/spring-cloud-starter-netflix-archaius-2.1.0.RELEASE.jar
+2020-05-24 02:31:41,834 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.0.RELEASE/spring-cloud-starter-netflix-archaius-2.1.0.RELEASE.jar
+2020-05-24 02:31:42,054 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.jar
+2020-05-24 02:31:42,307 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.0.RELEASE/spring-cloud-netflix-ribbon-2.1.0.RELEASE.jar
+2020-05-24 02:31:42,660 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.0.RELEASE/spring-cloud-netflix-archaius-2.1.0.RELEASE.jar
+2020-05-24 02:31:42,926 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.0.RELEASE/spring-cloud-netflix-archaius-2.1.0.RELEASE.jar
+2020-05-24 02:31:43,227 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.0.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.0.RELEASE.jar
+2020-05-24 02:31:43,562 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.0.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.0.RELEASE.jar
+2020-05-24 02:31:43,845 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.jar
+2020-05-24 02:31:44,160 [Worker-125] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hdrhistogram/HdrHistogram/2.1.9/HdrHistogram-2.1.9.jar
+2020-05-24 02:31:47,308 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: eureka:discovery-server:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\discovery-server\pom.xml.
+2020-05-24 02:31:48,690 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-24 02:31:48,957 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-info:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-info\pom.xml.
+2020-05-24 02:31:51,210 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:51,210 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:51,210 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:51,212 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:51,212 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:31:55,581 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:55,581 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:55,581 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:55,583 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:55,583 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:31:56,280 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:56,281 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:56,281 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:56,283 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:56,284 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:31:56,784 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:56,785 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:56,785 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:56,786 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:56,787 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:31:59,133 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:59,135 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:31:59,173 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:31:59,174 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:31:59,175 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:37:06,861 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:37:06,869 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:37:06,881 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:37:06,913 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:37:06,913 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:43:41,904 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:43:41,904 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:43:41,919 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:43:41,919 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:43:41,919 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:44:39,143 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:44:39,143 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:44:39,147 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:44:39,147 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:44:39,151 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:48:30,262 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:48:30,262 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:48:30,270 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:48:30,274 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:48:30,274 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 02:48:58,259 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:48:58,259 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:48:58,259 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:48:58,275 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:48:58,275 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 02:52:32,688 [Worker-135] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-info:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-info\pom.xml.
+2020-05-24 02:52:37,918 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:37,918 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:52:37,918 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:52:37,918 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:37,918 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:52:42,415 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:42,419 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:52:42,447 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:52:42,451 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:42,451 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:52:50,921 [Worker-127] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-24 02:52:52,972 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:52,972 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:52:52,972 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:52:52,972 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:52:52,972 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:53:00,810 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:00,822 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:53:00,826 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:53:00,830 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:00,830 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:53:27,693 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:27,701 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:53:27,713 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:53:27,717 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:27,717 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:53:41,060 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:41,064 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:53:41,068 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:53:41,068 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:53:41,068 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:56:49,763 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:56:49,779 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:56:49,779 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:56:49,779 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:56:49,779 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 02:57:08,059 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:57:08,059 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:57:08,059 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:57:08,075 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:57:08,075 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-info\src\test\resources
+2020-05-24 02:57:27,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:57:27,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 02:57:27,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 02:57:27,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 02:57:27,430 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-ratings\src\test\resources
+2020-05-24 03:05:07,870 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 03:05:07,870 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 03:05:07,886 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 03:05:07,886 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 03:05:07,886 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 04:56:17,911 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-05-24 04:56:46,737 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:56:46,750 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 04:56:46,795 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 04:56:46,801 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:56:46,801 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\discovery-server\src\test\resources
+2020-05-24 04:57:22,336 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: movie:movie-catalogue:0.0.1-SNAPSHOT @ C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\pom.xml.
+2020-05-24 04:57:25,055 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.1.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.1.0.RELEASE.pom
+2020-05-24 04:57:25,257 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.1.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.1.0.RELEASE.pom
+2020-05-24 04:57:25,554 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.0/jackson-module-afterburner-2.11.0.pom
+2020-05-24 04:57:25,766 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.0/jackson-module-afterburner-2.11.0.pom
+2020-05-24 04:57:26,011 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2020-05-24 04:57:26,644 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.pom
+2020-05-24 04:57:26,894 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/15.0/guava-15.0.pom
+2020-05-24 04:57:27,065 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/15.0/guava-15.0.pom
+2020-05-24 04:57:27,263 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/15.0/guava-parent-15.0.pom
+2020-05-24 04:57:27,522 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/15.0/guava-parent-15.0.pom
+2020-05-24 04:57:28,329 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.1.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.1.0.RELEASE.jar
+2020-05-24 04:57:28,489 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-hystrix/2.1.0.RELEASE/spring-cloud-starter-netflix-hystrix-2.1.0.RELEASE.jar
+2020-05-24 04:57:28,646 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.0/jackson-module-afterburner-2.11.0.jar
+2020-05-24 04:57:31,421 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-afterburner/2.11.0/jackson-module-afterburner-2.11.0.jar
+2020-05-24 04:57:31,583 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2020-05-24 04:57:35,643 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.10/commons-lang3-3.10.jar
+2020-05-24 04:57:35,846 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/15.0/guava-15.0.jar
+2020-05-24 04:57:44,874 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/15.0/guava-15.0.jar
+2020-05-24 04:57:47,083 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:57:47,084 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 04:57:47,088 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 04:57:47,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:57:47,092 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 04:57:51,119 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:57:51,126 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 04:57:51,131 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 04:57:51,135 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:57:51,135 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 04:58:52,472 [Worker-4] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.5.2.v20180401-1226.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.3.v20180115-1757.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-05-24 04:59:03,056 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:59:03,060 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 04:59:03,065 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 04:59:03,069 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 04:59:03,069 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 05:01:37,533 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 05:01:37,537 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 05:01:37,542 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 05:01:37,545 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 05:01:37,546 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources
+2020-05-24 05:02:50,265 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 05:02:50,267 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 05:02:50,273 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 05:02:50,276 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 05:02:50,277 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\apurv\Desktop\workspaceMicro\movie-catalogue\src\test\resources

@@ -1,0 +1,7 @@
+package movie.moviecatalogue;
+
+public class CatalogModel {
+
+	private String user;
+	private List<CatalogItem>=new ArrayList<CatalogItem<>();
+}

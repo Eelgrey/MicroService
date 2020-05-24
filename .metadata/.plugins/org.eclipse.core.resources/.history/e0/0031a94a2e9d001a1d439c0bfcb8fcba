@@ -1,0 +1,10 @@
+package movie.moviecatalogue;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CatalogModel {
+
+	private String user;
+	private List<CatalogItem> list=new ArrayList<CatalogItem>();
+}

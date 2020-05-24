@@ -1,0 +1,7 @@
+package movie.movieratings;
+
+public class Rating {
+
+	private String movieId;
+	private int ratings;
+}
